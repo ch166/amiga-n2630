@@ -11,6 +11,7 @@ A2286
 
 <ins>Hard Drive Controllers</ins>  
 A2091  
+GVP HC8+ Series II Rev. II board with ROM 4.15  
 RIPPLE  
 Oktagon SCSI  
 WordSync  
@@ -26,6 +27,7 @@ Freeway Pro
 XSurf 100  
 Ariadne  
 Plipbox  
+Zorro-LAN-IDE (Matthias Heinrichs)  
 
 <ins>Video</ins>  
 GBAPII+  
